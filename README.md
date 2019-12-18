@@ -1,4 +1,6 @@
 # Convolutional-Neural-Network
+Project Description : http://ranger.uta.edu/~kamangar/CSE-5368-FA18/Assignment06(Duedate.Dec.9,2018).html
+
 Using __Tensorflow__ to calculate error and confusion matrix of CIFAR-10 Dataset
 
 ##__Description__
